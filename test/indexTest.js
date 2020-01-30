@@ -1,4 +1,4 @@
-const expect = chai.expect;
+leaconst expect = chai.expect;
 
 describe('index.js', () => {
 	describe('printBadges()', () => {
